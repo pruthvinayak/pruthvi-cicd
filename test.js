@@ -4,7 +4,7 @@ const assert = require('assert');
 // We can group similar tests inside a describe block
 describe("Simple Calculations", () => {
 before(() => {
-	console.log( "pruthvi test formate" );
+	console.log( "pruthvi test  01 formate" );
 });
 
 after(() => {
